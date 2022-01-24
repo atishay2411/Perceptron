@@ -21,9 +21,9 @@ cp Research\ notebooks/demo.ipynb
 
 # Graphs:-
 ## AND gate
-![For AND gate](perceptron/plots/and.png)
+![For AND gate](plots/and.png)
 ## OR gate
-![For OR gate](perceptron/plots/or.png)
+![For OR gate](plots/or.png)
 
 
 '''
