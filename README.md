@@ -74,3 +74,23 @@ class Perceptron:
     return total_loss
 
 ```
+
+
+## Dataset:-
+## AND gate
+
+x1 | x2 | y
+-|-|-|
+0|0|0
+0|1|0
+1|0|0
+1|1|1
+
+## OR gate
+
+x1 | x2 | y
+-|-|-|
+0|0|0
+0|1|1
+1|0|1
+1|1|1
