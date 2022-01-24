@@ -5,7 +5,7 @@ In machine learning, the perceptron is an algorithm for supervised learning of b
 A binary classifier is a function which can decide whether or not an input, represented by a vector of numbers, 
 belongs to some specific class.
 
-![Perceptron](download (2).png)
+![Perceptron](perceptron_img.png)
 
 # commands used - 
 '''bash
