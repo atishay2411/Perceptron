@@ -7,7 +7,8 @@ belongs to some specific class.
 
 ![Perceptron](perceptron_img.png)
 
-# commands used - 
+# commands used (bash) -
+
 '''bash
 git add . && git commit -m "message" && git push origin main
 '''
@@ -26,6 +27,7 @@ cp Research\ notebooks/demo.ipynb
 
 
 '''
+# Python code:-
 ```python
 import numpy as np
 
